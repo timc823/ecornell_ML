@@ -3,7 +3,7 @@
 ## Course Website
 For more information please visit [eCcornell](ecornell.com/certificates/technology/machine-learning/#_) website.
 
-## OVERVIEW AND COURSES
+## Overview
 Machine learning is emerging as today’s fastest-growing job as the role of automation and AI expands in every industry and function.
 
 Cornell’s Machine Learning certificate program equips you to implement machine learning algorithms using Python. Using a combination of math and intuition, you will practice framing machine learning problems and construct a mental model to understand how data scientists approach these problems programmatically. Through investigation and implementation of k-nearest neighbors, naive Bayes, regression trees, and others, you’ll explore a variety of machine learning algorithms and practice selecting the best model, considering key principles of how to implement those models effectively. You will also have an opportunity to implement algorithms on live data while practicing debugging and improving models through approaches such as ensemble methods and support vector machines. Finally, the coursework will explore the inner workings of neural networks and how to construct and adapt neural networks for various types of data.
