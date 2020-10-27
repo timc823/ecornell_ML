@@ -1,9 +1,17 @@
-# Cornell Certificate Program - Machine Learning 
+# Cornell Certificate Program - Machine Learning
 
 ## Course Website
+
 For more information please visit [eCcornell](ecornell.com/certificates/technology/machine-learning/#_) website.
 
+## Contributing
+
+Pull requests are welcome if there's an error in the solution or wrong answers are provided.
+
+For Educational Purpose Only. It's better if you complete the assignments by yourself and **only** refer to this if you are stuck in the middle.
+
 ## Overview
+
 Machine learning is emerging as today’s fastest-growing job as the role of automation and AI expands in every industry and function.
 
 Cornell’s Machine Learning certificate program equips you to implement machine learning algorithms using Python. Using a combination of math and intuition, you will practice framing machine learning problems and construct a mental model to understand how data scientists approach these problems programmatically. Through investigation and implementation of k-nearest neighbors, naive Bayes, regression trees, and others, you’ll explore a variety of machine learning algorithms and practice selecting the best model, considering key principles of how to implement those models effectively. You will also have an opportunity to implement algorithms on live data while practicing debugging and improving models through approaches such as ensemble methods and support vector machines. Finally, the coursework will explore the inner workings of neural networks and how to construct and adapt neural networks for various types of data.
@@ -43,7 +51,3 @@ In this course, you will explore support-vector machines and use them to find a 
 In this course, you will investigate the fundamental components of machine learning that are used to build a neural network. You will then construct a neural network and train it on a simple data set to make predictions on new data. We then look at how a neural network can be adapted for image data by exploring convolutional networks. You will have the opportunity to explore a simple implementation of a convolutional neural network written in PyTorch, a deep learning platform. Finally, you will yet again adapt neural networks, this time for sequential data. Using a deep averaging network, you will implement a neural sequence model that analyzes product reviews to determine consumer sentiment.
 
 
-## Contributing
-Pull requests are welcome if there's an error in the solution or wrong answers are provided.
-
-For Educational Purpose Only. It's better if you complete the assignments by yourself and **only** refer to this if you are stuck in the middle.
