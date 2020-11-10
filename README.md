@@ -46,7 +46,7 @@ In this course, you will investigate the underlying mechanics of a machine learn
 
 In this course, you will explore support-vector machines and use them to find a maximum margin classifier. You will then construct a mental model for how loss functions and regularizers are used to minimize risk and improve generalization of a learning model. Through the use of feature expansion, you will extend the capabilities of linear classifiers to find non-linear classification boundaries. Finally, you will employ kernel machines to train algorithms that can learn in infinite dimensional feature spaces.
 
-**CIS537 - Deep Learning and Neural Networks**
+**[CIS537 - Deep Learning and Neural Networks](https://github.com/timc823/ecornell_ML/tree/master/CIS537_Deep%20Learning%20and%20Neural%20Networks)**
 
 In this course, you will investigate the fundamental components of machine learning that are used to build a neural network. You will then construct a neural network and train it on a simple data set to make predictions on new data. We then look at how a neural network can be adapted for image data by exploring convolutional networks. You will have the opportunity to explore a simple implementation of a convolutional neural network written in PyTorch, a deep learning platform. Finally, you will yet again adapt neural networks, this time for sequential data. Using a deep averaging network, you will implement a neural sequence model that analyzes product reviews to determine consumer sentiment.
 
